@@ -1,7 +1,7 @@
 ## Hi, I'm Cameron Chardukian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<p><em>I'm a Frontend Engineer currently working on a UI component library called Widgets @ <a href="https://www.mgm-tp.com/">mgm technology partners</a></em>.</p>
-<p><em>I have 4+ Years of Experience working as a Software Engineer and I'm also an <a href="https://github.com/camchardukian/Certifications/blob/master/AWS/AWS-SAA-03.md">AWS Certified Solutions Architect Associate</a></em>.</p>
+<p><em>I'm currently a Frontend Engineer working on a UI component library called Widgets @ <a href="https://www.mgm-tp.com/">mgm technology partners</a></em>.</p>
+<p><em>I have roughly 5 years of experience working as a Software Engineer and I'm also an <a href="https://github.com/camchardukian/Certifications/blob/master/AWS/AWS-SAA-03.md">AWS Certified Solutions Architect Associate</a></em>.</p>
 
 <a href="https://www.linkedin.com/in/cameron-chardukian/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
