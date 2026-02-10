@@ -9,7 +9,7 @@ greenfield and legacy systems.
 </p>
 
 <p>
-🎓 BS Computer Science | MSCS @ Georgia Tech (starting Fall 2026)<br/>
+🎓 BS Computer Science ✅ | MSCS @ Georgia Tech (starting Fall 2026)<br/>
 ☁️ <a href="https://github.com/camchardukian/Certifications/blob/master/AWS/AWS-SAA-03.md">
 AWS Certified Solutions Architect – Associate
 </a>
