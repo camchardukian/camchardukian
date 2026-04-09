@@ -2,7 +2,7 @@
 
 
 <p>
-Frontend Engineer with 6+ years of experience building and maintaining complex,
+Frontend Engineer with 7 years of experience building and maintaining complex,
 production React applications. Strong focus on maintainable architecture,
 performance, and long-lived enterprise codebases, with experience in both
 greenfield and legacy systems.
