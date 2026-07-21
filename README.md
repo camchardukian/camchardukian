@@ -1,15 +1,14 @@
 ## Hi, I'm Cameron Chardukian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-
 <p>
-Frontend Engineer with 7 years of experience building and maintaining complex,
-production React applications. Strong focus on maintainable architecture,
-performance, and long-lived enterprise codebases, with experience in both
-greenfield and legacy systems.
+Frontend engineer with 7 years of experience building production React applications. Interested in the intersection of engineering, product, and user experience, with experience modernizing legacy systems and building AI-powered product features.
 </p>
 
 <p>
 🎓 BS Computer Science ✅ | MSCS @ Georgia Tech (starting Fall 2026)<br/>
+🎨 <a href="https://github.com/camchardukian/Certifications/blob/master/Cornell/user-experience-design-certificate.md">
+Cornell User Experience Design Certificate
+</a><br/>
 ☁️ <a href="https://github.com/camchardukian/Certifications/blob/master/AWS/AWS-SAA-03.md">
 AWS Certified Solutions Architect – Associate
 </a>
@@ -65,12 +64,12 @@ AWS Certified Solutions Architect – Associate
     This involves close collaboration with backend, product, and design teams.
   </p>
   <p>
-    Outside of work hours, I build focused side projects to deepen my understanding of
-    frontend architecture, tooling, and cloud integration. I also try to take care of my health by eating healthy,
+    Outside of work, I build side projects to deepen my understanding of frontend engineering,
+    product development, and user experience. I also try to take care of my health by eating healthy,
     going to the gym, and spending time with loved ones so I can stay sharp and do my best work for the long haul.
   </p>
   <p>
-If you're interested in working together, the best way to reach me is via my
+    If you're interested in working together, the best way to reach me is via my
     <a href="https://www.linkedin.com/in/cameron-chardukian/" target="_blank">
       LinkedIn</a>.<br/>
   </p>
